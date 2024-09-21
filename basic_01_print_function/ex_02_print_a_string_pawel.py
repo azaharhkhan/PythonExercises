@@ -1,5 +1,5 @@
 """
-Exercise 1
+Exercise 2
 Using the print() function, print string: 'Learn Python!' to the console.
 """
 

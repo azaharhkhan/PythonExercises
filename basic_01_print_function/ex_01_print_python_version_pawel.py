@@ -1,5 +1,5 @@
 """
-Exercise 0
+Exercise 01
 Print the Python version to the console.
 
 Expected result: 3.8.19
